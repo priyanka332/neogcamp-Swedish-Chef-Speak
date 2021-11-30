@@ -1,2 +1,2 @@
 # neogcamp-Swedish-Chef-Speak
- Demo
+ Lesson 5 : Vanilla JS for beginners
