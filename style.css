@@ -8,14 +8,14 @@
 }
 
 :root{
-    --primary-blue: #58F3D1;
+    --primary-blue: #ec4c4c;
     --secondary-blue: #ade0e4;
     --primary-lack: #212121;
     font-family: "OctemberScript";
 }
 
 body{
-    background: linear-gradient(var(--primary-blue), var(--secondary-blue));
+    background-color: var(--primary-blue);
     color: var(--primary-lack);
     display: grid;
     place-content: center;
